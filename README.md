@@ -1,3 +1,3 @@
 # JavaDersleri
 Java temel seviye anlatım
-instagram : uekapps
+instagram : https://www.instagram.com/uekapps/
