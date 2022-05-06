@@ -1,7 +1,6 @@
 # JavaDersleri
-# Java temel seviye anlatım 
-# İçindekiler
-$ 1 - Hello World
+# Java temel seviye anlatım İçindekiler
+1 - Hello World
 2 - Java Veri Tipleri ve Değişkenler
 3 - Java String Veri Tipi
 4 - if-else Koşul yapısı
