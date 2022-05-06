@@ -1,6 +1,6 @@
 # JavaDersleri
-Java temel seviye anlatım 
-İçindekiler
+# Java temel seviye anlatım 
+# İçindekiler
 1 - Hello World
 2 - Java Veri Tipleri ve Değişkenler
 3 - Java String Veri Tipi
